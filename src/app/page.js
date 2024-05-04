@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <h1>Home Page</h1>
+      <button>click me</button>
     </main>
   );
 }
